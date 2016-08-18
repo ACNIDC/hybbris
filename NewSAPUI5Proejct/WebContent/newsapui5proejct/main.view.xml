@@ -2,7 +2,11 @@
 		controllerName="newsapui5proejct.main" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-	
+						<Label text="Label a" class="sapUiSmallMarginBottom" />
+			<Label text="Label b" class="sapUiSmallMarginBottom" />
+			<Label text="Label c" class="sapUiSmallMarginBottom" />
+			<Label text="Label d" class="sapUiSmallMarginBottom" design="Bold" />
+			<Label text="Label e" class="sapUiSmallMarginBottom" />
 		</content>
 	</Page>
 </core:View>
